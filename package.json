@@ -1,0 +1,18 @@
+{
+  "name": "create-fetch-action",
+  "version": "0.0.2",
+  "description": "My New Project description.",
+  "main": "src/index.js",
+  "author": "pompeygao <pompeygao@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/PompeyGao/fetch-action",
+  "bugs": "https://github.com/PompeyGao/fetch-action/issues",
+  "repository": {
+    "url": "https://github.com/PompeyGao/fetch-action",
+    "type": "git"
+  },
+  "dependencies": {
+    "antd": "^3.11.2",
+    "whatwg-fetch": "^3.0.0"
+  }
+}
